@@ -3,4 +3,6 @@ Hello GIT
 Take input from the User
 Add values
 
+Process the data
+
 Connected to GITHUB 
